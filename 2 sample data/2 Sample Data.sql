@@ -7,5 +7,5 @@ union select 'teeth', 32
 union select 'toungue', 1
 
 --how do you store body parts that dont have fixed numbers
-insert body(bodypart, num)
-select 'hair', 4000
+insert body(bodypart)
+select 'hair'
