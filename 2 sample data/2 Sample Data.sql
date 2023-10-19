@@ -1,3 +1,4 @@
+--ES please populate sample data with planets to match your new schema
 insert body(bodypart, num)
 select 'eyes', 2
 union select 'ears', 2
